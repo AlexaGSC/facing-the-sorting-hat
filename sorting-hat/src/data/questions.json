@@ -1,0 +1,268 @@
+[
+    {
+        "title": "Dawn or dusk?",
+        "answers": [
+            {
+                "title": "Dawn",
+                "scores": {
+                    "G": 50,
+                    "R": 50
+                }
+            },
+            {
+                "title": "Dusk",
+                "scores": {
+                    "S": 50,
+                    "H": 50
+                }
+            }
+        ]
+    },
+    {
+        "title": "Forest or river?",
+        "answers": [
+            {
+                "title": "Forest",
+                "scores": {
+                    "G": 50,
+                    "R": 50
+                }
+            },
+            {
+                "title": "River",
+                "scores": {
+                    "H": 50,
+                    "S": 50
+                }
+            }
+        ]
+    },
+    {
+        "title": "One of your house mates has cheated in a Hogwarts exam by using a Self-Spelling Quill...",
+        "answers": [
+            {
+                "title": "Lie and say you don't know",
+                "scores": {
+                    "S": 100
+                }
+            },
+            {
+                "title": "Tell Professor Flitwick to ask your classmate",
+                "scores": {
+                    "H": 100
+                }
+            },
+            {
+                "title": "Tell Professor Flitwick the truth",
+                "scores": {
+                    "R": 100
+                }
+            },
+            {
+                "title": "Tell the truth before being asked",
+                "scores": {
+                    "G": 100
+                }
+            }
+        ]
+    },
+    {
+        "title": "A Muggle confronts you and says that they are sure you are a witch or wizard. Do you:",
+        "answers": [
+            {
+                "title": "Ask what makes them think so?",
+                "scores": {
+                    "R": 100
+                }
+            },
+            {
+                "title": "Agree and offer a free sample of a jinx",
+                "scores": {
+                    "G": 100
+                }
+            },
+            {
+                "title": "Agree and walk away",
+                "scores": {
+                    "S": 100
+                }
+            },
+            {
+                "title": "Tell them you're worried about their mental health",
+                "scores": {
+                    "H": 100
+                }
+            }
+        ]
+    },
+    {
+        "title": "Which nightmare would frighten you most?",
+        "answers": [
+            {
+                "title": "High place, suddenly falling",
+                "scores": {
+                    "G": 100
+                }
+            },
+            {
+                "title": "An eye at the keyhole of a dark room",
+                "scores": {
+                    "S": 100
+                }
+            },
+            {
+                "title": "Friends and family forget who you are",
+                "scores": {
+                    "H": 100
+                }
+            },
+            {
+                "title": "Speaking in a silly voice, everyone laughs",
+                "scores": {
+                    "R": 100
+                }
+            }
+        ]
+    },
+    {
+        "title": "Which road tempts you most?",
+        "answers": [
+            {
+                "title": "The wide, sunny, grassy lane",
+                "scores": {
+                    "H": 100
+                }
+            },
+            {
+                "title": "The narrow, dark, lantern-lit alley",
+                "scores": {
+                    "S": 100
+                }
+            },
+            {
+                "title": "The twisting, leaf-strewn path",
+                "scores": {
+                    "G": 100
+                }
+            },
+            {
+                "title": "The cobbled street with ancient buildings",
+                "scores": {
+                    "R": 100
+                }
+            }
+        ]
+    },
+    {
+        "title": "Late at night, walking alone, you hear a magical cry. Do you:",
+        "answers": [
+            {
+                "title": "Proceed with caution",
+                "scores": {
+                    "H": 100
+                }
+            },
+            {
+                "title": "Draw your wand and investigate",
+                "scores": {
+                    "G": 100
+                }
+            },
+            {
+                "title": "Draw your wand and stand your ground",
+                "scores": {
+                    "S": 100
+                }
+            },
+            {
+                "title": "Withdraw into the shadows",
+                "scores": {
+                    "R": 100
+                }
+            }
+        ]
+    },
+    {
+        "title": "If you were attending Hogwarts, which pet would you choose to take with you?",
+        "answers": [
+            {
+                "title": "Snowy owl",
+                "scores": {
+                    "G": 25,
+                    "R": 50,
+                    "H": 50
+                }
+            },
+            {
+                "title": "Barn owl",
+                "scores": {
+                    "H": 50,
+                    "S": 50
+                }
+            },
+            {
+                "title": "Ginger cat",
+                "scores": {
+                    "G": 75
+                }
+            },
+            {
+                "title": "Dragon toad",
+                "scores": {
+                    "S": 75
+                }
+            }
+        ]
+    },
+    {
+        "title": "Black or white?",
+        "answers": [
+            {
+                "title": "Black",
+                "scores": {
+                    "S": 100
+                }
+            },
+            {
+                "title": "White",
+                "scores": {
+                    "G": 100
+                }
+            }
+        ]
+    },
+    {
+        "title": "Heads or tails?",
+        "answers": [
+            {
+                "title": "Heads",
+                "scores": {
+                    "R": 100
+                }
+            },
+            {
+                "title": "Tails",
+                "scores": {
+                    "H": 100
+                }
+            }
+        ]
+    },
+    {
+        "title": "Left or right?",
+        "answers": [
+            {
+                "title": "Left",
+                "scores": {
+                    "S": 100
+                }
+            },
+            {
+                "title": "Right",
+                "scores": {
+                    "G": 100
+                }
+            }
+        ]
+    }
+]
