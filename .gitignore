@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Dist / build folder
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional if usas coverage (tests)
+coverage/
+
+# Local dev
+*.local
