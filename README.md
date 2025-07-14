@@ -69,16 +69,17 @@ cd sorting-hat-chat
 
 ```bash
 npm install
-
+```
 
 ## 🚀 Run the App Locally
 
 ```bash
 npm run dev
-
+```
 Then open http://localhost:5173 in your browser.
 
 ## 📦 Build for Production
 
 ```bash
 npm run build
+```
